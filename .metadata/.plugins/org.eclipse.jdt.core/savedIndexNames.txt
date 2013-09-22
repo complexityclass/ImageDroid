@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/complexityclass/Android/projects/.metadata/.plugins/org.eclipse.jdt.core
+3957461088.index
+1367783960.index
+2019014873.index

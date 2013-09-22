@@ -1,0 +1,5 @@
+package com.complexityclass.imageprocessing.camera;
+
+public class CameraPreview {
+
+}
